@@ -1,3 +1,11 @@
+/*****************************************************************************
+ C++ Programming - From Problem Analysis to Program Design 5th Edition
+ Chapter 2 - Exercise 5
+ 
+ Consider the following C++ program in which the statements are in the incorrect order. 
+ Rearrange the statements so that it prompts the user to input the radius and 
+ height of a cylinder and output the volume and surface area of the cylinder.
+
 #include <iomanip>
 #include <cmath>
 #include <iostream>
